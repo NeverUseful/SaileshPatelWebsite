@@ -1,4 +1,4 @@
 SaileshPatelWebsite
 ===================
 
-A website for myself. Liza Amini made the HTML and CSS. Prinzhorn made the JavaScript 'skroller' effect.
+My own personal website. All the content is now mine.
